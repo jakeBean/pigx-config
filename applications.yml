@@ -1,5 +1,0 @@
-spring:
-  application:
-    name: pigx-config
-  profiles:
-    active: native
